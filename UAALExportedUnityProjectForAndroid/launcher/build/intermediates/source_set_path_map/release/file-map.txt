@@ -1,0 +1,9 @@
+com.DefaultCompany.UAALUnityProject.launcher-pngs-0 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\build\generated\res\pngs\release
+com.DefaultCompany.UAALUnityProject.launcher-resValues-1 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\build\generated\res\resValues\release
+com.DefaultCompany.UAALUnityProject.launcher-rs-2 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\build\generated\res\rs\release
+com.DefaultCompany.UAALUnityProject.launcher-mergeReleaseResources-3 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.DefaultCompany.UAALUnityProject.launcher-mergeReleaseResources-4 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.DefaultCompany.UAALUnityProject.launcher-merged_res-5 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\build\intermediates\merged_res\release
+com.DefaultCompany.UAALUnityProject.launcher-main-6 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\src\main\res
+com.DefaultCompany.UAALUnityProject.launcher-release-7 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\src\release\res
+com.DefaultCompany.UAALUnityProject.launcher-packaged_res-8 D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\packaged_res\release

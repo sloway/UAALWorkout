@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher"
+    name=":launcher"
+    type="APP"
+    maven="UAALExportedUnityProjectForAndroid:launcher:"
+    gradle="7.2.0"
+    buildFolder="build"
+    bootClassPath="C:\Users\touch\AppData\Local\Android\Sdk\platforms\android-30\android.jar;C:\Users\touch\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-30"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,17 @@
+<dependencies>
+  <compile
+      roots="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid@@:unityLibrary::release">
+    <dependency
+        name="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid@@:unityLibrary::release"
+        simpleName="UAALExportedUnityProjectForAndroid:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid@@:unityLibrary::release,__local_aars__:D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\libs\unity-classes.jar:unspecified@jar">
+    <dependency
+        name="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid@@:unityLibrary::release"
+        simpleName="UAALExportedUnityProjectForAndroid:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\libs\unity-classes.jar"/>
+  </package>
+</dependencies>

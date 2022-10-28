@@ -60,68 +60,69 @@
 36-->D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\src\main\AndroidManifest.xml:5:16-48
 37        android:icon="@mipmap/app_icon"
 37-->D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\src\main\AndroidManifest.xml:5:82-113
-38        android:label="@string/app_name"
+38        android:label="@string/app_name" >
 38-->D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\launcher\src\main\AndroidManifest.xml:5:49-81
-39        android:testOnly="true" >
-40        <activity
-40-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-43:20
-41            android:name="com.unity3d.player.UnityPlayerActivity"
-41-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-66
-42            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-42-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-194
+39        <activity
+39-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:9-44:20
+40            android:name="com.unity3d.player.UnityPlayerActivity"
+40-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-66
+41            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+41-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:13-194
+42            android:exported="true"
+42-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-36
 43            android:hardwareAccelerated="false"
-43-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-48
+43-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-48
 44            android:launchMode="singleTask"
-44-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-44
+44-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-44
 45            android:resizeableActivity="false"
-45-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:31:13-47
+45-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-47
 46            android:screenOrientation="fullSensor"
-46-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:32:13-51
+46-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-51
 47            android:theme="@style/UnityThemeSelector" >
-47-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:33:13-54
+47-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-54
 48            <intent-filter>
-48-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:13-38:29
+48-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-39:29
 49                <action android:name="android.intent.action.MAIN" />
-49-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:17-69
-49-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:25-66
+49-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:17-69
+49-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:25-66
 50
 51                <category android:name="android.intent.category.LAUNCHER" />
-51-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:17-77
-51-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:27-74
+51-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:17-77
+51-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:27-74
 52            </intent-filter>
 53
 54            <meta-data
-54-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:40:13-42:40
+54-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:13-43:40
 55                android:name="unityplayer.UnityActivity"
-55-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:41:17-57
+55-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-57
 56                android:value="true" />
-56-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:42:17-37
+56-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:43:17-37
 57        </activity>
 58
 59        <meta-data
-59-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:45:9-47:33
+59-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:9-48:33
 60            android:name="unity.splash-mode"
-60-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:46:13-45
+60-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-45
 61            android:value="0" />
-61-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:47:13-30
+61-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:13-30
 62        <meta-data
-62-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:48:9-50:36
+62-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:9-51:36
 63            android:name="unity.splash-enable"
-63-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:49:13-47
+63-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-47
 64            android:value="True" />
-64-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:50:13-33
+64-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:13-33
 65        <meta-data
-65-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:51:9-53:37
+65-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:9-54:37
 66            android:name="unity.allow-resizable-window"
-66-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:52:13-56
+66-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-56
 67            android:value="False" />
-67-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:53:13-34
+67-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:13-34
 68        <meta-data
-68-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:54:9-56:68
+68-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:9-57:68
 69            android:name="unity.build-id"
-69-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:55:13-42
+69-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:13-42
 70            android:value="fdfcbaf6-1ece-4b0c-8222-713a86891738" />
-70-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:56:13-65
+70-->[:unityLibrary] D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\intermediates\merged_manifest\debug\AndroidManifest.xml:57:13-65
 71    </application>
 72
 73</manifest>

@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid@@:unityLibrary::release"
+      jars="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\.transforms\9c75ab70308a35a6430c3ffc4415b390\transformed\out\jars\classes.jar;D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\.transforms\9c75ab70308a35a6430c3ffc4415b390\transformed\out\jars\libs\unity-classes.jar"
+      resolved="UAALExportedUnityProjectForAndroid:unityLibrary:unspecified"
+      folder="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\build\.transforms\9c75ab70308a35a6430c3ffc4415b390\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:D:\Work\UAALWorkout\UAALExportedUnityProjectForAndroid\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>
